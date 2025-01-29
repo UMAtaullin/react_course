@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Button } from 'react-bootstrap' // Импортируем из react-bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css' // Импортируем стили Bootstrap
 
-class App6 extends Component {
+class Clicker extends Component {
   constructor() {
     super()
     this.state = {
@@ -51,4 +51,4 @@ class App6 extends Component {
   }
 }
 
-export default App6
+export default Clicker
